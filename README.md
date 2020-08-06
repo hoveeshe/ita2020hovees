@@ -1,5 +1,5 @@
 ## Hi, I'm hovees! <img src="https://github.com/hovees/hovees/blob/master/smallCat.gif" width="30"> 
-<img src="https://github.com/hovees/hovees/blob/master/cat.gif" width="200">
+<img src="https://github.com/ita2020hovees/ita2020hovees/blob/master/cat.gif" width="200">
 
 
 <!--
