@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi, I'm hovees! <img src="https://github.com/hovees/hovees/blob/master/smallCat.gif" width="30"> 
+<img src="https://github.com/hovees/hovees/blob/master/cat.gif" width="200">
+
 
 <!--
-**ita2020hovees/ita2020hovees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hovees/hovees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
